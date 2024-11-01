@@ -9,5 +9,5 @@ This is a basic template for a Snap-CLI plugin written in TypeScript.
 ### Initialize it locally
 
 ```bash
-snap-cli plugin init basic-ts
+sn plugin init basic-ts
 ```

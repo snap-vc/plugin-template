@@ -1,6 +1,6 @@
-# Basic TypeScript Template
+# Basic JavaScript Template
 
-This is a basic template for a Snap-CLI plugin written in TypeScript.
+This is a basic template for a Snap-CLI plugin written in JavaScript.
 
 
 ## Usage
@@ -9,5 +9,5 @@ This is a basic template for a Snap-CLI plugin written in TypeScript.
 ### Initialize it locally
 
 ```bash
-snap-cli plugin init basic-ts
+sn plugin init basic-js
 ```
