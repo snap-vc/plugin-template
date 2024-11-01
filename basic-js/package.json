@@ -1,0 +1,9 @@
+{
+	"name": "basic-js",
+	"version": "1.0.0",
+	"description": "A basic template for a Snap-CLI plugin written in JavaScript",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "mkdir -p dist && cp -r src/* dist"
+	}
+}
